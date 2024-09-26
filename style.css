@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: block;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 15%;
+    height: fit-content;
+}
+
+input {
+    height: 40px;
+    text-align: center;
+    border-radius: 15px;
+    border: solid .1px black;
+}
+
+#Result {
+    font-size: 20px;
+    font-weight: bold;
+}
