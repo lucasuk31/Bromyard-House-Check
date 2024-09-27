@@ -18,11 +18,11 @@ function Enter() {
     } else if (flatNumber >= 224 && flatNumber <= 259) {
         result.innerHTML = ("CORE: " + 8);
     } else if (flatNumber >= 260 && flatNumber <= 267) {
-        result.innerHTML = ("BH - COURTYARD LIVE & WORK ACCESS CORE 6 OR 9");
+        result.innerHTML = ("ACCESS CORE 6 OR 9");
     } else if (flatNumber >= 268 && flatNumber <= 285) {
         result.innerHTML = ("CORE: " + 10);
-    } else if (flatNumber >= 260 && flatNumber <= 267) {
-        result.innerHTML = ("BH - COURTYARD LIVE & WORK ACCESS CORE 6 OR 9");
+    } else if (flatNumber >= 286 && flatNumber <= 293) {
+        result.innerHTML = ("ACCESS CORE 6 OR 9");
     } else if (flatNumber >= 294 && flatNumber <= 311) {
         result.innerHTML = ("CORE: " + 7);
     } else if (flatNumber >= 312 && flatNumber <= 339) {
